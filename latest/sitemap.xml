@@ -46,17 +46,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.rsserpent.com/latest/deployment/docker/</loc>
+         <loc>https://docs.rsserpent.com/latest/deployment/heroku/</loc>
          <lastmod>2021-10-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.rsserpent.com/latest/deployment/plugin/</loc>
-         <lastmod>2021-10-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.rsserpent.com/latest/deployment/vercel/</loc>
          <lastmod>2021-10-12</lastmod>
          <changefreq>daily</changefreq>
     </url>

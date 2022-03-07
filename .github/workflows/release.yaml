@@ -11,7 +11,7 @@ jobs:
     env:
       IS_PRE_RELEASE: false
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - run: git fetch origin doc:doc
       - uses: fregante/setup-git-user@v1
       - uses: actions/setup-python@v2

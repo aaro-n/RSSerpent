@@ -68,7 +68,7 @@ jobs:
           name: rsserpent
           token: ${{ secrets.PAT_TOKEN }}
           untagged-keep-latest: 10
-      - uses: peter-evans/dockerhub-description@v2
+      - uses: peter-evans/dockerhub-description@v3
         if: github.repository == 'RSSerpent/RSSerpent' && github.event_name != 'pull_request'
         with:
           username: queensferry
